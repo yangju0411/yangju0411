@@ -7,8 +7,8 @@
 ### My projects 🔭
 
 <p align="center">
-<img src="https://img.shields.io/badge/Portfolio-ETL-brightgreen?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Portfolio-P2P-blue?style=flat-square&logo=kubernetes&logoColor=white"/></a>&nbsp 
+<a href="https://bit.ly/3KuLwE6"><img src="https://img.shields.io/badge/Portfolio-ETL-brightgreen?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+<a href="https://bit.ly/3AqA5Zq"><img src="https://img.shields.io/badge/Portfolio-P2P-blue?style=flat-square&logo=kubernetes&logoColor=white"/></a>&nbsp 
 </p>
   
 ### My skills ⚡
