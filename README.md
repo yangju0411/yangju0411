@@ -1,17 +1,17 @@
-### 나를 소개합니다
+### It's me 😄
 
 <p align="center">
   <a href="https://bit.ly/3RfUebD"><img src="https://img.shields.io/badge/About%20me-00A98F?style=flat-square&logo=about.me&logoColor=white&link=https://bit.ly/3RfUebD"/></a>
 </p>
 
-### 프로젝트를 소개합니다
+### My projects 🔭
 
 <p align="center">
 <img src="https://img.shields.io/badge/Portfolio-ETL-brightgreen?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Portfolio-P2P-blue?style=flat-square&logo=kubernetes&logoColor=white"/></a>&nbsp 
 </p>
   
-### 기술을 소개합니다
+### My skills ⚡
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
@@ -21,7 +21,11 @@
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/kubernetes-%23326ce5?style=flat-square&logo=kubernetes&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/kubernetes-%23326ce5?style=flat-square&logo=kubernetes&logoColor=white"/></a>&nbsp <br>
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>&nbsp
+<img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"/></a>&nbsp
 </p>
 
 <p align="center">
