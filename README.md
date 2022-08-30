@@ -6,6 +6,9 @@
 
 ### 프로젝트를 소개합니다
 
+<p align="center">
+<img src="https://img.shields.io/badge/Portfolio-ETL-brightgreen?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+</p>
   
 ### 기술을 소개합니다
 
