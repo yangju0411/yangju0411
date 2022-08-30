@@ -1,6 +1,10 @@
 ### 나를 소개합니다
 <p align="center">
-  <a href="https://bit.ly/3RfUebD"><img src="https://img.shields.io/badge/About%20me-00A98F?style=flat-square&logo=about.me&logoColor=white&link=https://bit.ly/3RfUebD"/></a>&nbsp
+  <a href="https://bit.ly/3RfUebD"><img src="https://img.shields.io/badge/About%20me-00A98F?style=flat-square&logo=about.me&logoColor=white&link=https://bit.ly/3RfUebD"/></a>
+
+### 프로젝트를 소개합니다
+
+  
 ### 기술을 소개합니다
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
