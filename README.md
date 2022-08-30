@@ -20,9 +20,9 @@
 <img src="https://img.shields.io/badge/kubernetes-%23326ce5?style=flat-square&logo=kubernetes&logoColor=white"/></a>&nbsp 
 </p>
 
-<div align=center>
+<p align="center">
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyangju0411%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-</div>
+</p>
 
 
 <!--
